@@ -8,5 +8,5 @@ This is my vary basic project of understanding to all.
 3. contect
    
    ## Adding a basic comments in this code.
- This is an inline-style link to our [project](/https://project-infoo.netlify.app/)
+ This is an inline-style link to our [project](https://project-infoo.netlify.app/)
   ## Thank you🙂
