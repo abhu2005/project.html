@@ -24,13 +24,13 @@ This project includes multiple pages such as Home, About, and Contact, built usi
 ## 📷 Project Screenshots
 
 ### 🏠 Home Page
-![Home Page](images/home.png)
+![Home Page](screen-shot/index.png)
 
 ### ℹ️ About Page
-![About Page](images/about.png)
+![About Page](screen-shot/about.png)
 
 ### 📞 Contact Page
-![Contact Page](images/contact.png)
+![Contact Page](screen-shot/contect.png)
 
 ---
 
@@ -42,3 +42,19 @@ This project includes multiple pages such as Home, About, and Contact, built usi
 
 ## 📂 Project Structure
 
+---
+
+## 💡 How to Use
+
+1. Download or clone the repository  
+2. Open `index.html` in any web browser  
+3. Navigate through the pages  
+
+---
+
+## 🙌 Author
+
+**Abhu**  
+GitHub: [@abhu2005](https://github.com/abhu2005)
+---
+⭐ If you like this project, don’t forget to **star the repository**!
